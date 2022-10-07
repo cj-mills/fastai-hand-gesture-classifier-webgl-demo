@@ -2,7 +2,7 @@
  A hand gesture classifier made with Fastai, TensorFlow.js, and Unity
 
 
-## Live Demo
+## In-Browser Demo
 
 |  Demo Link      |
 | ------------------------------------------------------------ |
